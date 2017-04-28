@@ -385,6 +385,10 @@
                     {
                         "Key" : "Name",
                         "Value" : "Jenkins Server"
+                    },
+		     {
+                        "Key" : "Owner",
+                        "Value" : "Ameren Corp"
                     }
                 ]
             }
